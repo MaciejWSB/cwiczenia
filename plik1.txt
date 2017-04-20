@@ -1,1 +1,2 @@
-cos tu zapisane jest. Ćwiczenia z bash.
+cos tu zapisane jest. Tu skasowane.
+To jest nowe dodane zdanie.
